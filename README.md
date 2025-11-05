@@ -1,9 +1,9 @@
 # DSA Assessment - November 2025
 
 **Name:** Aayush Kumar Shrivastav  
-**Roll No:** 2301921540002
-**College:** G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT
-**Group:** CSAI-G1  
+**Roll No:** 2301921540002  
+**College:** G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT  
+**Group:** CSAI-G1   
 **Assessment Given By:** Abhishek Sir  
 **Date:** 3rd November, 2025
 
