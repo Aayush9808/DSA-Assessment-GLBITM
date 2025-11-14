@@ -1,20 +1,13 @@
-# DSA Assessments – GLBITM
+# DSA Assessment – GLBITM
 
-This repository organizes multiple DSA assessment solution sets from GLBITM under clear subfolders.
+## Student Details
 
-## Folders
+- Name: Aayush Kumar Shrivastav
+- Roll No: 2301921540002
+- College: G. L. Bajaj Institute of Technology & Management (GLBITM)
+- Group: CSAI-G1
 
-- DSA-Assessment-Nov-2025
-	- Abhishek Sir’s assessment (Nov 3, 2025)
-	- Contains the original README and all C++ solutions moved to `DSA-Assessment-Nov-2025/solutions/`
-- DSA assessment cdc
-	- Placeholder folder for CDC assessments; add your solutions here.
+## Assessments
 
-## Quick navigation
-
-- Nov 2025 set: [Open README](./DSA-Assessment-Nov-2025/README.md)
-- CDC set: [Open folder](./DSA%20assessment%20cdc/)
-
-## Notes
-
-- On GitHub, repository names cannot contain spaces. If you want the repo itself to be named like this folder structure, rename it to `DSA-Assessments-GLBITM` in GitHub settings. Local folder names inside the repo can keep spaces.
+- November 2025 (Abhishek Sir): [DSA-Assessment-Nov-2025](./DSA-Assessment-Nov-2025/README.md)
+- CDC Assessment: [DSA assessment cdc](./DSA%20assessment%20cdc/)
