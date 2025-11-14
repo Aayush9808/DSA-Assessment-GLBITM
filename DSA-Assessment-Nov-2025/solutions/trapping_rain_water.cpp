@@ -18,7 +18,7 @@ int trapRainWater(vector<int>& arr) {
         else {
             if(arr[r] >= rightmax) rightmax = arr[r];
             else ans += rightmax - arr[r];
-            r--;
+            r--; 
         }
     }
     return ans;
