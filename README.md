@@ -5,7 +5,8 @@
 - Name: Aayush Kumar Shrivastav
 - Roll No: 2301921540002
 - College: G. L. Bajaj Institute of Technology & Management (GLBITM)
-- Group: CSAI-G1
+- Group: SWAYAM-PROJECT BATCH
+- Branch: B. TECH CSAI
 
 ## Assessments
 
