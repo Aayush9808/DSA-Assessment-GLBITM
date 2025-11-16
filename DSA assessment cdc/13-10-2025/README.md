@@ -12,7 +12,7 @@
 1. [Reverse The Array](./01_reverse_array.cpp)
 2. [Finding Maximum and Minimum Elements](./02_minimum_maximum_deletions.cpp)
 3. [Running Sum of 1d Array](./03_running_sum_1d_array.cpp)
-4. Count Elements with Maximum Frequency
+4. [Count Elements with Maximum Frequency](./04_count_max_frequency_elements.cpp)
 5. [Left/Right Rotate an Array by K Positions](./05_rotate_array.cpp)
 
 ---
