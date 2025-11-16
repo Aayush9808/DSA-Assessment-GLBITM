@@ -12,21 +12,21 @@
 5. [Left/Right Rotate an Array by K Positions](./13-10-2025/05_rotate_array.cpp)
 
 #### Array II
-- Find element in an array
-- Remove duplicate elements from an sorted array
-- Find repeating element an array
-- Find equilibrium element in an array
+- [Find element in an array](./13-10-2025/06_find_element_array.cpp)
+- [Remove duplicate elements from sorted array](./13-10-2025/07_remove_duplicates_sorted.cpp)
+- [Find repeating element in array](./13-10-2025/08_find_repeating_element.cpp)
+- [Find equilibrium element in array](./13-10-2025/09_equilibrium_element.cpp)
 
 #### Array Sorting
-- Bubble sort
-- Selection sort
-- Insertion Sort and complexity Analysis
+- [Bubble sort](./13-10-2025/10_bubble_sort.cpp)
+- [Selection sort](./13-10-2025/11_selection_sort.cpp)
+- [Insertion Sort](./13-10-2025/12_insertion_sort.cpp)
 
 #### Array III
-- Union and intersection of sorted arrays
-- Maximum subarray sum (Kadane's Algorithm)
-- Maximum product subarray
-- Majority Element (Moore's voting algorithm)
+- [Union and intersection of sorted arrays](./13-10-2025/13_union_intersection.cpp)
+- [Maximum subarray sum (Kadane's Algorithm)](./13-10-2025/14_kadane_algorithm.cpp)
+- [Maximum product subarray](./13-10-2025/15_maximum_product_subarray.cpp)
+- [Majority Element (Moore's voting algorithm)](./13-10-2025/16_majority_element.cpp)
 
 ### 14/10/2025
 

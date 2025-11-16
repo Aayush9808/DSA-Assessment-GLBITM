@@ -17,4 +17,32 @@
 
 ---
 
-*Solutions will be added as we progress*
+# Array II - 13/10/2025
+
+## Problems & Solutions
+
+6. [Find element in an array](./06_find_element_array.cpp)
+7. [Remove duplicate elements from sorted array](./07_remove_duplicates_sorted.cpp)
+8. [Find repeating element in array](./08_find_repeating_element.cpp)
+9. [Find equilibrium element in array](./09_equilibrium_element.cpp)
+
+---
+
+# Array Sorting - 13/10/2025
+
+## Problems & Solutions
+
+10. [Bubble sort](./10_bubble_sort.cpp)
+11. [Selection sort](./11_selection_sort.cpp)
+12. [Insertion Sort](./12_insertion_sort.cpp)
+
+---
+
+# Array III - 13/10/2025
+
+## Problems & Solutions
+
+13. [Union and intersection of sorted arrays](./13_union_intersection.cpp)
+14. [Maximum subarray sum (Kadane's Algorithm)](./14_kadane_algorithm.cpp)
+15. [Maximum product subarray](./15_maximum_product_subarray.cpp)
+16. [Majority Element (Moore's voting algorithm)](./16_majority_element.cpp)
