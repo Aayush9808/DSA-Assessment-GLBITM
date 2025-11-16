@@ -7,7 +7,7 @@
 #### Array I
 1. [Reverse The Array](./13-10-2025/01_reverse_array.cpp)
 2. Finding Maximum and Minimum Elements
-3. Running Sum of 1d Array
+3. [Running Sum of 1d Array](./13-10-2025/03_running_sum_1d_array.cpp)
 4. Count Elements with Maximum Frequency
 5. Left/Right Rotate an Array by K Positions
 
