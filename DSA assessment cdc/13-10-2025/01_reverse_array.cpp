@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 void reverseArray(vector<int> &arr, int m) {
     int l = m + 1;
     int r = arr.size() - 1;
