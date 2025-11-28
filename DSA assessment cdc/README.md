@@ -28,6 +28,8 @@
 - [Maximum product subarray](./13-10-2025/15_maximum_product_subarray.cpp)
 - [Majority Element (Moore's voting algorithm)](./13-10-2025/16_majority_element.cpp)
 
+---
+
 ### 14/10/2025
 
 #### Strings I
@@ -63,6 +65,8 @@
 - [Identifying rows with maximum 1s](./14-10-2025/20_row_max_ones.cpp)
 - [Rotating matrices by 90 degrees](./14-10-2025/21_rotate_matrix_90.cpp)
 
+---
+
 ### 15/10/2025
 
 #### LinkedList I
@@ -84,6 +88,8 @@
 - [Stack Implementation using Linked List](./15-10-2025/stack_arr_ll_2stacks.cpp) - Stack with Linked List
 - [Implement Two Stacks in an Array](./15-10-2025/stack_arr_ll_2stacks.cpp) - Two Stacks
 
+---
+
 ### 16/10/2025
 
 #### Stack II
@@ -100,6 +106,8 @@
 - [Subarray Sum Equals K](./16-10-2025/subarraysum_maxsum_longestsubarrayk.cpp) - Subarray Sum K
 - [Maximum Sum Subarray](./16-10-2025/subarraysum_maxsum_longestsubarrayk.cpp) - Max Sum
 - [Longest Subarray Sum K](./16-10-2025/subarraysum_maxsum_longestsubarrayk.cpp) - Longest Subarray
+
+---
 
 ### 17/10/2025
 
@@ -126,9 +134,11 @@
 - [Morris Traversal](./17-10-2025/pre_in_post_level_morris.cpp) - Morris
 
 #### Binary Trees III
-- [Count Nodes in Binary Tree](./17-10-2025/treenode_insert_search_count.cpp) - Count Nodes
-- [Insert Node in Binary Tree](./17-10-2025/treenode_insert_search_count.cpp) - Insert
 - [Search in Binary Tree](./17-10-2025/treenode_insert_search_count.cpp) - Search
+
+---
+
+### 18/10/2025inary Tree](./17-10-2025/treenode_insert_search_count.cpp) - Search
 
 ### 18/10/2025
 
@@ -152,9 +162,11 @@
 - [First Missing Positive](./18-10-2025/twosum_frequent_missing.cpp) - Missing Positive
 
 #### HashMap III
-- [Intersection of Two Arrays](./18-10-2025/intersect_zeros_anagram.cpp) - Intersection
-- [Subarray Sum Zero](./18-10-2025/intersect_zeros_anagram.cpp) - Sum Zero
 - [Group Anagrams](./18-10-2025/intersect_zeros_anagram.cpp) - Anagrams
+
+---
+
+### 19/10/2025ams](./18-10-2025/intersect_zeros_anagram.cpp) - Anagrams
 
 ### 19/10/2025
 
@@ -163,9 +175,11 @@
 - [Count Subarray with Zero Sum](./19-10-2025/largestzerosum_countzerosum.cpp) - Count Zero Sum
 
 #### Priority Queue I
-- [Priority Queue Implementation](./19-10-2025/pq_impl_kthlargest_topkfreq.cpp) - PQ Implementation
-- [Kth Largest Element](./19-10-2025/pq_impl_kthlargest_topkfreq.cpp) - Kth Largest
 - [Top K Frequent Elements](./19-10-2025/pq_impl_kthlargest_topkfreq.cpp) - Top K Frequent
+
+---
+
+### 20/10/2025ent Elements](./19-10-2025/pq_impl_kthlargest_topkfreq.cpp) - Top K Frequent
 
 ### 20/10/2025
 
@@ -184,9 +198,11 @@
 - [Top View of Binary Tree](./20-10-2025/sumleaves_topview_bottomview.cpp) - Top View
 - [Bottom View of Binary Tree](./20-10-2025/sumleaves_topview_bottomview.cpp) - Bottom View
 
-#### HashMap IV
-- [Group Anagrams](./20-10-2025/anagrams_isomorphic.cpp) - Anagrams
 - [Isomorphic Strings](./20-10-2025/anagrams_isomorphic.cpp) - Isomorphic
+
+---
+
+### 21/10/2025Strings](./20-10-2025/anagrams_isomorphic.cpp) - Isomorphic
 
 ### 21/10/2025
 
@@ -210,9 +226,11 @@
 - [Modular Exponentiation](./21-10-2025/gcd_lcm_prime_modexp_chineserem.cpp) - Modular Exp
 - [Chinese Remainder Theorem](./21-10-2025/gcd_lcm_prime_modexp_chineserem.cpp) - Chinese Remainder
 
-#### Number Theory II
-- [Factorial of Large Number](./21-10-2025/factorial_npr_ncr_catalan.cpp) - Factorial
-- [nPr (Permutation)](./21-10-2025/factorial_npr_ncr_catalan.cpp) - nPr
+- [Catalan Number](./21-10-2025/factorial_npr_ncr_catalan.cpp) - Catalan
+
+---
+
+### 22/10/2025ation)](./21-10-2025/factorial_npr_ncr_catalan.cpp) - nPr
 - [nCr (Combination)](./21-10-2025/factorial_npr_ncr_catalan.cpp) - nCr
 - [Catalan Number](./21-10-2025/factorial_npr_ncr_catalan.cpp) - Catalan
 
@@ -226,9 +244,11 @@
 #### Backtracking II
 - [Maze with One Move Allowed](./22-10-2025/maze_ratmaze_nqueens.cpp) - Maze
 - [Rat in a Maze](./22-10-2025/maze_ratmaze_nqueens.cpp) - Rat Maze
-- [N-Queens Problem](./22-10-2025/maze_ratmaze_nqueens.cpp) - N-Queens
+- [Combination Sum II](./22-10-2025/combsum_combsum2.cpp) - Combination Sum II
 
-#### Advanced Recursion I
+---
+
+### 23/10/2025Recursion I
 - [Combination Sum](./22-10-2025/combsum_combsum2.cpp) - Combination Sum
 - [Combination Sum II](./22-10-2025/combsum_combsum2.cpp) - Combination Sum II
 
@@ -248,9 +268,11 @@
 - [Activity Selection](./23-10-2025/activity_platform_coinchange.cpp) - Activity Selection
 - [Minimum Platforms](./23-10-2025/activity_platform_coinchange.cpp) - Platforms
 - [Coin Change Greedy](./23-10-2025/activity_platform_coinchange.cpp) - Coin Change
+- [Fractional Knapsack](./23-10-2025/chunks_chunks2_knapsack.cpp) - Fractional Knapsack
 
-#### Greedy III
-- [Max Chunks to Make Sorted](./23-10-2025/chunks_chunks2_knapsack.cpp) - Max Chunks
+---
+
+### 24/10/2025to Make Sorted](./23-10-2025/chunks_chunks2_knapsack.cpp) - Max Chunks
 - [Max Chunks II](./23-10-2025/chunks_chunks2_knapsack.cpp) - Max Chunks II
 - [Fractional Knapsack](./23-10-2025/chunks_chunks2_knapsack.cpp) - Fractional Knapsack
 
@@ -265,9 +287,11 @@
 - [BFS (Breadth-First Search)](./24-10-2025/bfs_dfs_dfsiter.cpp) - BFS
 - [DFS (Depth-First Search)](./24-10-2025/bfs_dfs_dfsiter.cpp) - DFS
 - [DFS Iterative](./24-10-2025/bfs_dfs_dfsiter.cpp) - DFS Iterative
+- [Check if Graph is Bipartite](./24-10-2025/countcomp_cyclic_bipartite.cpp) - Bipartite
 
-#### Graph III
-- [Count Connected Components](./24-10-2025/countcomp_cyclic_bipartite.cpp) - Connected Components
+---
+
+### 25/10/2025cted Components](./24-10-2025/countcomp_cyclic_bipartite.cpp) - Connected Components
 - [Detect Cycle in Undirected Graph](./24-10-2025/countcomp_cyclic_bipartite.cpp) - Cycle Detection
 - [Check if Graph is Bipartite](./24-10-2025/countcomp_cyclic_bipartite.cpp) - Bipartite
 
@@ -280,9 +304,11 @@
 
 #### Graph V
 - [Detect Cycle in Undirected Graph](./25-10-2025/cycleundet_bridges.cpp) - Cycle Undirected
-- [Bridges in Graph](./25-10-2025/cycleundet_bridges.cpp) - Bridges
+- [Prim's Algorithm](./25-10-2025/kruskal_prim.cpp) - Prim
 
-#### MST (Minimum Spanning Tree)
+---
+
+### 26/10/2025mum Spanning Tree)
 - [Kruskal's Algorithm](./25-10-2025/kruskal_prim.cpp) - Kruskal
 - [Prim's Algorithm](./25-10-2025/kruskal_prim.cpp) - Prim
 
@@ -301,9 +327,11 @@
 
 #### Trie II
 - [Word Dictionary](./26-10-2025/worddict_lcp.cpp) - Word Dictionary
-- [Longest Common Prefix](./26-10-2025/worddict_lcp.cpp) - LCP
+- [Huffman Decoding](./26-10-2025/huffman_encode_decode.cpp) - Decode
 
-#### Huffman Coding
+---
+
+### 27/10/2025oding
 - [Huffman Encoding](./26-10-2025/huffman_encode_decode.cpp) - Encode
 - [Huffman Decoding](./26-10-2025/huffman_encode_decode.cpp) - Decode
 
@@ -320,9 +348,11 @@
 - [Longest Common Subsequence](./27-10-2025/lis_lcs_editdist.cpp) - LCS
 - [Edit Distance](./27-10-2025/lis_lcs_editdist.cpp) - Edit Distance
 
-#### DP III
-- [0/1 Knapsack](./27-10-2025/knapsack_subsetsum_partition_coinmin.cpp) - Knapsack
-- [Subset Sum](./27-10-2025/knapsack_subsetsum_partition_coinmin.cpp) - Subset Sum
+- [Coin Change (Minimum Coins)](./27-10-2025/knapsack_subsetsum_partition_coinmin.cpp) - Coin Change Min
+
+---
+
+### 28/10/2025(./27-10-2025/knapsack_subsetsum_partition_coinmin.cpp) - Subset Sum
 - [Partition Equal Subset Sum](./27-10-2025/knapsack_subsetsum_partition_coinmin.cpp) - Partition
 - [Coin Change (Minimum Coins)](./27-10-2025/knapsack_subsetsum_partition_coinmin.cpp) - Coin Change Min
 
@@ -337,9 +367,11 @@
 - [Maximum Product Subarray](./28-10-2025/maxprod_maxsum_circular_maxsquare.cpp) - Max Product
 - [Maximum Sum Subarray](./28-10-2025/maxprod_maxsum_circular_maxsquare.cpp) - Max Sum
 - [Maximum Sum Circular Subarray](./28-10-2025/maxprod_maxsum_circular_maxsquare.cpp) - Max Circular
-- [Maximal Square](./28-10-2025/maxprod_maxsum_circular_maxsquare.cpp) - Max Square
+- [Distinct Subsequences](./28-10-2025/uniquepath_obstacle_minpath_distinct.cpp) - Distinct
 
-#### DP VI
+---
+
+### 29/10/2025
 - [Unique Paths](./28-10-2025/uniquepath_obstacle_minpath_distinct.cpp) - Unique Paths
 - [Unique Paths with Obstacles](./28-10-2025/uniquepath_obstacle_minpath_distinct.cpp) - Obstacles
 - [Minimum Path Sum](./28-10-2025/uniquepath_obstacle_minpath_distinct.cpp) - Min Path
@@ -351,9 +383,11 @@
 - [Best Time to Buy/Sell Stock (1 Transaction)](./29-10-2025/stock1_stockinf_stock2_stockk.cpp) - Stock 1 Transaction
 - [Best Time to Buy/Sell Stock (Infinite Transactions)](./29-10-2025/stock1_stockinf_stock2_stockk.cpp) - Stock Infinite
 - [Best Time to Buy/Sell Stock (2 Transactions)](./29-10-2025/stock1_stockinf_stock2_stockk.cpp) - Stock 2 Transactions
-- [Best Time to Buy/Sell Stock (K Transactions)](./29-10-2025/stock1_stockinf_stock2_stockk.cpp) - Stock K Transactions
+- [Decode Ways](./29-10-2025/wordbreak_countpalin_longestpalin_decode.cpp) - Decode
 
-#### DP String Problems
+---
+
+### 30/10/2025 Problems
 - [Word Break](./29-10-2025/wordbreak_countpalin_longestpalin_decode.cpp) - Word Break
 - [Count Palindromic Substrings](./29-10-2025/wordbreak_countpalin_longestpalin_decode.cpp) - Count Palindromes
 - [Longest Palindromic Substring](./29-10-2025/wordbreak_countpalin_longestpalin_decode.cpp) - Longest Palindrome
@@ -364,9 +398,11 @@
 #### DP Revised I
 - [Rod Cutting](./30-10-2025/rodcut_unboundknap_coinways_minjump.cpp) - Rod Cutting
 - [Unbounded Knapsack](./30-10-2025/rodcut_unboundknap_coinways_minjump.cpp) - Unbounded Knapsack
-- [Coin Change (Ways)](./30-10-2025/rodcut_unboundknap_coinways_minjump.cpp) - Coin Change Ways
-- [Minimum Jumps](./30-10-2025/rodcut_unboundknap_coinways_minjump.cpp) - Min Jumps
+- [Box Stacking](./30-10-2025/maxsumlis_bitonic_boxstack.cpp) - Box Stack
 
+---
+
+### 31/10/2025
 #### DP Revised II
 - [Maximum Sum LIS](./30-10-2025/maxsumlis_bitonic_boxstack.cpp) - Max Sum LIS
 - [Longest Bitonic Subsequence](./30-10-2025/maxsumlis_bitonic_boxstack.cpp) - Bitonic
@@ -377,17 +413,21 @@
 #### DP Revised III
 - [Wildcard Pattern Matching](./31-10-2025/wildcard_regex_lrs_mininspalin.cpp) - Wildcard
 - [Regular Expression Matching](./31-10-2025/wildcard_regex_lrs_mininspalin.cpp) - Regex
-- [Longest Repeating Subsequence](./31-10-2025/wildcard_regex_lrs_mininspalin.cpp) - LRS
-- [Minimum Insertions for Palindrome](./31-10-2025/wildcard_regex_lrs_mininspalin.cpp) - Min Insert Palindrome
+- [Maximal Rectangle](./31-10-2025/countsquares_largestrect_maxrect.cpp) - Max Rectangle
 
+---
+
+### 01/11/2025
 #### DP Revised IV
 - [Count Squares in Matrix](./31-10-2025/countsquares_largestrect_maxrect.cpp) - Count Squares
 - [Largest Rectangle in Histogram](./31-10-2025/countsquares_largestrect_maxrect.cpp) - Largest Rectangle
 - [Maximal Rectangle](./31-10-2025/countsquares_largestrect_maxrect.cpp) - Max Rectangle
 
-### 01/11/2025
+- [Longest Palindromic Subsequence](./01-11-2025/traprain_maxsumnonadj_mincost_longestpalinseq.cpp) - Longest Palindrome Seq
 
-#### DP Revised V
+---
+
+### 02/11/2025d V
 - [Trapping Rain Water](./01-11-2025/traprain_maxsumnonadj_mincost_longestpalinseq.cpp) - Trap Rain Water
 - [Maximum Sum Non-Adjacent](./01-11-2025/traprain_maxsumnonadj_mincost_longestpalinseq.cpp) - Max Sum Non-Adjacent
 - [Minimum Cost Path](./01-11-2025/traprain_maxsumnonadj_mincost_longestpalinseq.cpp) - Min Cost Path
